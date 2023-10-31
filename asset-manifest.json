@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/migoy96/sample_react/static/css/main.42b21195.css",
+    "main.js": "/migoy96/sample_react/static/js/main.5a7dd8c1.js",
+    "static/media/Naruto.gif": "/migoy96/sample_react/static/media/Naruto.f94f9c3ef8e9f0804fe3.gif",
+    "static/media/animeExpo.jpg": "/migoy96/sample_react/static/media/animeExpo.4c55e2d4a9a193f5ea7f.jpg",
+    "static/media/jujutsuKaisen.webp": "/migoy96/sample_react/static/media/jujutsuKaisen.4c686a5b5dde2b549200.webp",
+    "static/media/mangaCover3.jpg": "/migoy96/sample_react/static/media/mangaCover3.db234fae4d5273568317.jpg",
+    "static/media/mangabg.jpg": "/migoy96/sample_react/static/media/mangabg.7a1fe06158164dc47607.jpg",
+    "static/media/mangaReading.jpg": "/migoy96/sample_react/static/media/mangaReading.c312d4fdc7964271ed4d.jpg",
+    "static/media/AnimeStore.jpg": "/migoy96/sample_react/static/media/AnimeStore.38ddc9e3b9d50d6bd8b2.jpg",
+    "static/media/mangaCover1.jpg": "/migoy96/sample_react/static/media/mangaCover1.792a0bb952440aee1e2d.jpg",
+    "static/media/mangaCover2.jpg": "/migoy96/sample_react/static/media/mangaCover2.11e910bf83ba97177100.jpg",
+    "static/media/animecarousel3.jpg": "/migoy96/sample_react/static/media/animecarousel3.cabed85cc5671887c0e1.jpg",
+    "static/media/animeStreaming.jpg": "/migoy96/sample_react/static/media/animeStreaming.b7bf418c1aa222e5ae87.jpg",
+    "static/media/animecarousel1.jpg": "/migoy96/sample_react/static/media/animecarousel1.1346d375be75282fed25.jpg",
+    "static/media/kimetsuNoYaiba.jpg": "/migoy96/sample_react/static/media/kimetsuNoYaiba.fd030274a4b25e364d26.jpg",
+    "static/media/animecarousel2.jpg": "/migoy96/sample_react/static/media/animecarousel2.da051cbded0a63e40c40.jpg",
+    "static/media/myheroAcademia.jpg": "/migoy96/sample_react/static/media/myheroAcademia.44cf1c1662395059b7eb.jpg",
+    "static/media/mangaCover4.jpg": "/migoy96/sample_react/static/media/mangaCover4.820646e6fe1144dc02db.jpg",
+    "static/media/chainsawMan.jpg": "/migoy96/sample_react/static/media/chainsawMan.bd78c62deb49255b8785.jpg",
+    "index.html": "/migoy96/sample_react/index.html",
+    "main.42b21195.css.map": "/migoy96/sample_react/static/css/main.42b21195.css.map",
+    "main.5a7dd8c1.js.map": "/migoy96/sample_react/static/js/main.5a7dd8c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42b21195.css",
+    "static/js/main.5a7dd8c1.js"
+  ]
+}
